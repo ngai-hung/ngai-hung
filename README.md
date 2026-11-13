@@ -11,4 +11,4 @@ I work on **quantitative research and M&E in health and humanitarian contexts**:
 - Cost-benefit model of Indonesia's free school meals programme, rebuilt in R
 - Multi-sector needs assessment analysis (REACH data)
 
-📫 [LinkedIn] (https://www.linkedin.com/in/ngaihung/)
+📫 LinkedIn: https://www.linkedin.com/in/ngaihung/
