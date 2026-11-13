@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Ngai Hung 👋
 
-<!--
-**ngai-hung/ngai-hung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MPP candidate at the Lee Kuan Yew School of Public Policy (NUS), from Chin State, Myanmar.
 
-Here are some ideas to get you started:
+I work on **quantitative research and M&E in health and humanitarian contexts**: survey data, programme evaluation, and cost-benefit / cost-effectiveness analysis. Before the MPP, I spent seven years in research and M&E roles in Myanmar and Mizoram, India, most recently on vaccination and health information data.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Tools:** R, Python (pandas), Excel · learning survey analysis and cost-effectiveness modelling in R
+
+**Coming soon:**
+- Myanmar childhood vaccination coverage analysis (DHS data)
+- Cost-benefit model of Indonesia's free school meals programme, rebuilt in R
+- Multi-sector needs assessment analysis (REACH data)
+
+📫 [LinkedIn] (https://www.linkedin.com/in/ngaihung/)
