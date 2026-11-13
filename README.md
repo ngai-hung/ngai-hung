@@ -4,7 +4,7 @@ MPP candidate at the Lee Kuan Yew School of Public Policy (NUS), from Chin State
 
 I work on **quantitative research and M&E in health and humanitarian contexts**: survey data, programme evaluation, and cost-benefit / cost-effectiveness analysis. Before the MPP, I spent seven years in research, M&E and programme roles in Myanmar and Mizoram, India, most recently on vaccination and health information data.
 
-**Tools:** R, Python (pandas), Excel · learning survey analysis and cost-effectiveness modelling in R
+**Tools:** R, Python, Excel · Survey analysis and cost-effectiveness modelling in R
 
 **Coming soon:**
 - Myanmar childhood vaccination coverage analysis (DHS data)
